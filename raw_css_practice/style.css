@@ -1,0 +1,83 @@
+/* h1{
+    color: red;
+}
+
+p{
+    color: #00ff00;
+}
+
+button{
+    color:brown;
+    background-color: rgb(218, 218, 11);
+}
+
+body{
+    background-color: E7CFBC;
+} */
+
+/* *{
+    color: blue;
+    universal selector
+} */
+
+/* *{
+    color:blue;
+} */
+
+/* h1{
+    color:green;
+} */
+/* button{
+    color: gray;
+}
+#head1{
+    color: yellow;
+}
+
+#head2{
+    color: chocolate;
+    It's a id selector 
+}
+
+.myclass{
+    color: magenta;
+    class selector
+} */
+
+#box{
+    background-color: blue;
+    /* color: white; */
+}
+
+.heading{
+    color: red; 
+    text-decoration: line-through;
+    font-weight: normal;
+    /*normal,blod,bloder,light* 100 to 900.
+    for boldness need more than 400 */
+}
+
+/* h1,h2,h3{
+    color: red;
+} */
+
+button{
+    background-color: pink;
+}
+
+#para{
+    text-align: start;
+
+}
+
+#hehe{
+    text-align: center;
+    text-decoration: blue wavy underline;
+    /*dotted underline*/
+
+
+}
+a{
+    text-decoration: none;
+}
+
