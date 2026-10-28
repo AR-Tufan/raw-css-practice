@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+#box1{
+    height: 300px;
+    width: 500px;
+    background-color: #006a4e;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    position: relative;
+}
+
+#box2{
+    height: 120px;
+    width: 120px;
+    background-color: #f42a41;
+    border-radius: 50%;
+    top: 90px;
+    left: 200px;
+    position: absolute;
+
+}
